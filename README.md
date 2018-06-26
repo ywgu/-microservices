@@ -5,7 +5,7 @@ The README is intended to provide high-level guidance of the project, and detail
 
 ## Project Structure
 
-* ci-vagrant
+ * ci-vagrant
  * Installation files that build a Jenkins instance that is ready for experimenting with the examples contained within the book.
  * Currently the installation is undertaken using [Vagrant](https://www.vagrantup.com/) and Oracle's [VirtualBox](https://www.virtualbox.org/)
  * Once Vagrant and VirtualBox are installed locally, the Jenkins box can be built from this directory using the `vagrant up` command
